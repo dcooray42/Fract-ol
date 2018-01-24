@@ -102,6 +102,9 @@ Le programme peut afficher les 4 fractales simultanément.
 ## Licence
 * Minilibx - License BSD: Copyright Olivier Crouzet - 2014
 
+## Note
+114/100
+
 ## Auteur
 
 * **Dimitri Cooray** - [Lien vers github](https://github.com/konamifox)
