@@ -1,15 +1,15 @@
 # Fract-ol
 
 Deuxième projet de la branche graphique de l'école 42. Créer un programme qui affiche des fractales avec lesquelles 
-on peut intéragir.
+on peut interagir.
 
 ## Pour commencer
 
-Ces instructions vous aiderons a avoir une copie du projet et de pouvoir le faire marcher sur votre ordinateur.
+Ces instructions vous aideront à avoir une copie du projet et de pouvoir le faire marcher sur votre ordinateur.
 
 ### Prérequis
 
-#### Systeme d'exploitation
+#### Système d'exploitation
 
 ```
 macOS Sierra
@@ -57,7 +57,7 @@ make re
 
 ## Faire des tests
 
-Une fois que le programme a été crée, vous n'avez plus qu'à rentrer en ligne de commande le nom du programme + un nombre 
+Une fois que le programme a été créé, vous n'avez plus qu'à rentrer en ligne de commande le nom du programme + un nombre 
 compris entre 1 et 4 correspondant à une fractale.
 
 ### Utilisation du programme
