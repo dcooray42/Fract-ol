@@ -85,6 +85,11 @@ Le programme peut afficher les 4 fractales simultanément.
 #### Exemple
 ![alt text](https://raw.githubusercontent.com/konamifox/photo/master/Fractol.jpeg?token=AT6ePPXndZr_V9s0HgGJfDy75dVtQkgiks5acdrgwA%3D%3D)
 
+## Compiler avec
+* Minilibx - Librairie graphique
+
+## Licence
+* Minilibx - License BSD: Copyright Olivier Crouzet - 2014
 
 ## Auteur
 
