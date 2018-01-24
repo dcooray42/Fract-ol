@@ -57,7 +57,7 @@ compris entre 1 et 4 correspondant à une fractale.
 Ligne de commande
 
 ```
-./fdf [nombre]
+./fractol [nombre]
 ```
 
 | Nombre |   Fractale   |
@@ -68,6 +68,19 @@ Ligne de commande
 |    4   | Multibrot    |
 
 Le programme peut afficher les 4 fractales simultanément.
+
+### Commandes
+
+|          Touche         |                    Action                     |
+| ----------------------- |:--------------------------------------------- |
+| Flèches directionnelles | Déplacement                                   |
+| Pavé numérique 1        | Changer de couleur                            |
+| Pavé numérique 4        | Changer de couleur                            |
+| Pavé numérique +        | Augmenter exposant (multibrot)                |
+| Pavé numérique -        | Diminuer exposant (multibrot)                 |
+| C                       | Changer les paramètres de l'ensemble (souris) |
+| R                       | Réinitialiser les paramètres de la fractale   |
+| Molette souris          | Zoom                                          |
 
 #### Exemple
 ![alt text](https://raw.githubusercontent.com/konamifox/photo/master/Fractol.jpeg?token=AT6ePPXndZr_V9s0HgGJfDy75dVtQkgiks5acdrgwA%3D%3D)
