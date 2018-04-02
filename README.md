@@ -94,7 +94,7 @@ Le programme peut afficher les 4 fractales simultanément.
 | Molette souris          | Zoom                                          |
 
 #### Exemple
-![alt text](https://raw.githubusercontent.com/konamifox/Fract-ol/master/photo/Fractol.jpeg)
+![alt text](https://raw.githubusercontent.com/dcooray42/Fract-ol/master/photo/Fractol.jpeg)
 
 ## Compiler avec
 * Minilibx - Librairie graphique
