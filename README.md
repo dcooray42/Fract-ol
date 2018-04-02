@@ -22,7 +22,7 @@ macOS Sierra
 Ce que vous devez faire pour télécharger les fichiers sources afin de pouvoir les compiler par la suite
 
 ```
-git clone https://github.com/konamifox/Fract-ol.git [nom du PATH/dossier]
+git clone https://github.com/dcooray42/Fract-ol.git [nom du PATH/dossier]
 ```
 
 ### Installation
@@ -107,4 +107,4 @@ Le programme peut afficher les 4 fractales simultanément.
 
 ## Auteur
 
-* **Dimitri Cooray** - [Lien vers github](https://github.com/konamifox)
+* **Dimitri Cooray** - [Lien vers github](https://github.com/dcooray42)
